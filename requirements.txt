@@ -1,0 +1,6 @@
+Flask
+gunicorn
+agno
+groq
+ddgs
+python-dotenv
